@@ -1,4 +1,4 @@
-# drone-striker
+# jalthrang with drone
 
 https://user-images.githubusercontent.com/65806100/230850144-bc3a5da7-5c29-42a4-b673-81100a2d58fa.mp4
 
